@@ -4,11 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efb1e15a-c708-49bd-8e2a-2743fdff89a0" name="Changes" comment="" />
+    <list default="true" id="efb1e15a-c708-49bd-8e2a-2743fdff89a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/WhatisJwt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1SecurityConfig.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch2frontendConnect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/lib/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1HealthController.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/AGENTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/CLAUDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/eslint.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/next.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/postcss.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectStruc.md" beforeDir="false" afterPath="$PROJECT_DIR$/projectStruc.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
@@ -19,9 +53,20 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/backend">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -43,22 +88,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build backend.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.SpringSecurityBoardApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "ts.external.directory.path": "/Users/apple/devCourse/spring-security-board/frontend/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="SpringSecurityBoardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="spring-security-board.main" />
+      <module name="com.example.spring-security-board.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springsecurityboard.SpringSecurityBoardApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,12 +139,16 @@
       <option name="presentableId" value="Default" />
       <updated>1778138598822</updated>
       <workItem from="1778138600139" duration="1060000" />
-      <workItem from="1778321078227" duration="1271000" />
+      <workItem from="1778321078227" duration="6634000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
